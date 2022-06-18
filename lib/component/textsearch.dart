@@ -15,7 +15,7 @@ class Textsearch extends StatelessWidget {
         children: [
           Expanded(
             child: Text(
-              'Adopt a Canine friend ',
+              'Adopt a  Canine friend ',
               style: TextStyle(
                   color: ksecondarycolor,
                   fontSize: 35,
